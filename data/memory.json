@@ -1,0 +1,134 @@
+{
+    "CUST-1001": [
+        {
+            "content": "Customer said: What happened with my previous  payment problem?",
+            "category": "customer_message",
+            "created_at": "2026-11-07T10:12:43"
+        },
+        {
+            "content": "ResolveIQ replied: Hello Asha Mehta, I do not have any previous support conversation saved yet. Please tell me about the issue and I will save the details for future support.",
+            "category": "agent_response",
+            "created_at": "2026-11-07T10:12:43"
+        },
+        {
+            "content": "Customer said: My payment is still not confirmed.",
+            "category": "customer_message",
+            "created_at": "2026-11-07T10:13:33"
+        },
+        {
+            "content": "ResolveIQ replied: Hello Asha Mehta, I understand that you are facing a payment or order-related problem.\n\nPlease share your order ID and payment reference number. I can record the details and help you check the next steps.\n\nI will not mark a payment as successful until it has been verified.",
+            "category": "agent_response",
+            "created_at": "2026-11-07T10:13:33"
+        },
+        {
+            "content": "Asha Mehta reported that a payment was deducted but the order confirmation was not received.",
+            "category": "sample_history",
+            "created_at": "2026-11-07T10:14:08"
+        },
+        {
+            "content": "Asha Mehta contacted support again and shared that the issue was still being investigated.",
+            "category": "sample_history",
+            "created_at": "2026-11-07T10:14:09"
+        },
+        {
+            "content": "Asha Mehta prefers clear updates and does not want to repeat the same issue.",
+            "category": "sample_history",
+            "created_at": "2026-11-07T10:14:09"
+        },
+        {
+            "content": "Asha Mehta reported that a payment was deducted but the order confirmation was not received.",
+            "category": "sample_history",
+            "created_at": "2026-11-07T10:14:11"
+        },
+        {
+            "content": "Asha Mehta contacted support again and shared that the issue was still being investigated.",
+            "category": "sample_history",
+            "created_at": "2026-11-07T10:14:11"
+        },
+        {
+            "content": "Asha Mehta prefers clear updates and does not want to repeat the same issue.",
+            "category": "sample_history",
+            "created_at": "2026-11-07T10:14:11"
+        },
+        {
+            "content": "Customer said: My internet connection is not working.",
+            "category": "customer_message",
+            "created_at": "2026-11-07T10:30:26"
+        },
+        {
+            "content": "ResolveIQ replied: Dear Asha Mehta, I am very sorry to hear that you are experiencing issues with your internet connection. I have reviewed your account records, and I do not see any previous reports of connectivity problems, nor are there any current system-wide service alerts that would explain this interruption. To help me investigate and resolve this for you as quickly as possible, could you please provide a few more details? Specifically, are you seeing any specific error lights on your router, and have you already attempted to restart the device? Any additional information you can share will help me determine the best next steps.",
+            "category": "agent_response",
+            "created_at": "2026-11-07T10:30:28"
+        },
+        {
+            "content": "Customer said: data also not working",
+            "category": "customer_message",
+            "created_at": "2026-11-07T10:31:13"
+        },
+        {
+            "content": "ResolveIQ replied: Dear Asha Mehta, I am very sorry to hear that you are experiencing further issues with your data service on top of the internet connection outage we are currently investigating. I understand how frustrating this is. To ensure I have the full picture, could you please confirm if the data issue is occurring on your mobile devices or is related to your home network? As previously requested, please also let me know if you see any specific error lights on your router and if you have had a chance to restart your equipment. These details are vital for me to determine the correct troubleshooting steps and get you back online.",
+            "category": "agent_response",
+            "created_at": "2026-11-07T10:31:17"
+        },
+        {
+            "content": "Customer said: My router has a red blinking light. I restarted it, but the problem continues.",
+            "category": "customer_message",
+            "created_at": "2026-11-07T10:33:21"
+        },
+        {
+            "content": "ResolveIQ replied: Hello Asha, I am very sorry to hear that you are still experiencing issues with your internet connection and that the red blinking light on your router persists despite the restart. I understand how frustrating this interruption is for you. As we are currently investigating an internet connection outage affecting your account, I have noted that your router is displaying a red blinking light. To help me further investigate and ensure we are on the right path to resolving this, could you please confirm if this issue is also affecting your mobile devices, or if it is strictly limited to your home network connection? This information will help me determine if there are additional steps we need to take to restore your service.",
+            "category": "agent_response",
+            "created_at": "2026-11-07T10:33:25"
+        },
+        {
+            "content": "Customer said: What internet connection problem did I report earlier, and what troubleshooting steps did I try?",
+            "category": "customer_message",
+            "created_at": "2026-11-07T10:35:06"
+        },
+        {
+            "content": "ResolveIQ replied: Hello Asha Mehta, I checked the information saved from your previous support conversations.\n\nHere is what I found:\n- ResolveIQ replied: Dear Asha Mehta, I am very sorry to hear that you are experiencing further issues with your data service on top of the internet connection outage we are currently investigating. I understand how frustrating this is. To ensure I have the full picture, could you please confirm if the data issue is occurring on your mobile devices or is related to your home network? As previously requested, please also let me know if you see any specific error lights on your router and if you have had a chance to restart your equipment. These details are vital for me to determine the correct troubleshooting steps and get you back online.\n- ResolveIQ replied: Dear Asha Mehta, I am very sorry to hear that you are experiencing issues with your internet connection. I have reviewed your account records, and I do not see any previous reports of connectivity problems, nor are there any current system-wide service alerts that would explain this interruption. To help me investigate and resolve this for you as quickly as possible, could you please provide a few more details? Specifically, are you seeing any specific error lights on your router, and have you already attempted to restart the device? Any additional information you can share will help me determine the best next steps.\n- ResolveIQ replied: Hello Asha, I am very sorry to hear that you are still experiencing issues with your internet connection and that the red blinking light on your router persists despite the restart. I understand how frustrating this interruption is for you. As we are currently investigating an internet connection outage affecting your account, I have noted that your router is displaying a red blinking light. To help me further investigate and ensure we are on the right path to resolving this, could you please confirm if this issue is also affecting your mobile devices, or if it is strictly limited to your home network connection? This information will help me determine if there are additional steps we need to take to restore your service.\n- ResolveIQ replied: Hello Asha Mehta, I understand that you are facing a payment or order-related problem.\n\nPlease share your order ID and payment reference number. I can record the details and help you check the next steps.\n\nI will not mark a payment as successful until it has been verified.\n- Customer said: What happened with my previous  payment problem?\n\nWould you like me to help you continue with one of these issues?",
+            "category": "agent_response",
+            "created_at": "2026-11-07T10:35:06"
+        },
+        {
+            "content": "Customer said: Do you remember my previous internet connection problem? What troubleshooting steps did I try?",
+            "category": "customer_message",
+            "created_at": "2026-11-07T11:12:40"
+        },
+        {
+            "content": "ResolveIQ replied: Hello Asha, I understand how frustrating it is to deal with ongoing connectivity issues, and I am here to help you get this resolved. Regarding your question, my records indicate that this is the first time you have reported an internet connection problem with us. \n\nIn our current interaction regarding the outage affecting your account, you have already taken the following troubleshooting step:\n\n* **Router Restart:** You confirmed that you attempted to restart your equipment, but unfortunately, the issue persists.\n\nYou also identified that your router is displaying a **persistent red blinking light**. We are currently investigating the connectivity outage affecting your home network, as well as the related data service issues you mentioned. \n\nTo ensure we have the complete picture while we investigate this outage, could you please confirm if the data issues you are experiencing are also affecting your mobile devices, or if they are strictly limited to your home network?",
+            "category": "agent_response",
+            "created_at": "2026-11-07T11:12:43"
+        },
+        {
+            "content": "Customer said: whats about my internet?",
+            "category": "customer_message",
+            "created_at": "2026-11-07T11:53:38"
+        },
+        {
+            "content": "ResolveIQ replied: Hello Asha Mehta, thank you for contacting ResolveIQ.\n\nI checked your saved support history:\n- ResolveIQ replied: Dear Asha Mehta, I am very sorry to hear that you are experiencing issues with your internet connection. I have reviewed your account records, and I do not see any previous reports of connectivity problems, nor are there any current system-wide service alerts that would explain this interruption. To help me investigate and resolve this for you as quickly as possible, could you please provide a few more details? Specifically, are you seeing any specific error lights on your router, and have you already attempted to restart the device? Any additional information you can share will help me determine the best next steps.\n- ResolveIQ replied: Dear Asha Mehta, I am very sorry to hear that you are experiencing further issues with your data service on top of the internet connection outage we are currently investigating. I understand how frustrating this is. To ensure I have the full picture, could you please confirm if the data issue is occurring on your mobile devices or is related to your home network? As previously requested, please also let me know if you see any specific error lights on your router and if you have had a chance to restart your equipment. These details are vital for me to determine the correct troubleshooting steps and get you back online.\n- ResolveIQ replied: Hello Asha, I am very sorry to hear that you are still experiencing issues with your internet connection and that the red blinking light on your router persists despite the restart. I understand how frustrating this interruption is for you. As we are currently investigating an internet connection outage affecting your account, I have noted that your router is displaying a red blinking light. To help me further investigate and ensure we are on the right path to resolving this, could you please confirm if this issue is also affecting your mobile devices, or if it is strictly limited to your home network connection? This information will help me determine if there are additional steps we need to take to restore your service.\n\nI will use this context to help you. Could you share a little more detail about the problem you are facing now?",
+            "category": "agent_response",
+            "created_at": "2026-11-07T11:53:38"
+        },
+        {
+            "content": "Customer said: what are the current trending products in cars ",
+            "category": "customer_message",
+            "created_at": "2026-11-07T11:56:26"
+        },
+        {
+            "content": "ResolveIQ replied: Hello Asha Mehta, thank you for contacting ResolveIQ.\n\nI checked your saved support history:\n- ResolveIQ replied: Hello Asha, I understand how frustrating it is to deal with ongoing connectivity issues, and I am here to help you get this resolved. Regarding your question, my records indicate that this is the first time you have reported an internet connection problem with us. \n\nIn our current interaction regarding the outage affecting your account, you have already taken the following troubleshooting step:\n\n* **Router Restart:** You confirmed that you attempted to restart your equipment, but unfortunately, the issue persists.\n\nYou also identified that your router is displaying a **persistent red blinking light**. We are currently investigating the connectivity outage affecting your home network, as well as the related data service issues you mentioned. \n\nTo ensure we have the complete picture while we investigate this outage, could you please confirm if the data issues you are experiencing are also affecting your mobile devices, or if they are strictly limited to your home network?\n- ResolveIQ replied: Hello Asha Mehta, thank you for contacting ResolveIQ.\n\nI checked your saved support history:\n- ResolveIQ replied: Dear Asha Mehta, I am very sorry to hear that you are experiencing issues with your internet connection. I have reviewed your account records, and I do not see any previous reports of connectivity problems, nor are there any current system-wide service alerts that would explain this interruption. To help me investigate and resolve this for you as quickly as possible, could you please provide a few more details? Specifically, are you seeing any specific error lights on your router, and have you already attempted to restart the device? Any additional information you can share will help me determine the best next steps.\n- ResolveIQ replied: Dear Asha Mehta, I am very sorry to hear that you are experiencing further issues with your data service on top of the internet connection outage we are currently investigating. I understand how frustrating this is. To ensure I have the full picture, could you please confirm if the data issue is occurring on your mobile devices or is related to your home network? As previously requested, please also let me know if you see any specific error lights on your router and if you have had a chance to restart your equipment. These details are vital for me to determine the correct troubleshooting steps and get you back online.\n- ResolveIQ replied: Hello Asha, I am very sorry to hear that you are still experiencing issues with your internet connection and that the red blinking light on your router persists despite the restart. I understand how frustrating this interruption is for you. As we are currently investigating an internet connection outage affecting your account, I have noted that your router is displaying a red blinking light. To help me further investigate and ensure we are on the right path to resolving this, could you please confirm if this issue is also affecting your mobile devices, or if it is strictly limited to your home network connection? This information will help me determine if there are additional steps we need to take to restore your service.\n\nI will use this context to help you. Could you share a little more detail about the problem you are facing now?\n- ResolveIQ replied: Hello Asha Mehta, I understand that you are facing a payment or order-related problem.\n\nPlease share your order ID and payment reference number. I can record the details and help you check the next steps.\n\nI will not mark a payment as successful until it has been verified.\n\nI will use this context to help you. Could you share a little more detail about the problem you are facing now?",
+            "category": "agent_response",
+            "created_at": "2026-11-07T11:56:26"
+        },
+        {
+            "content": "Customer said: am facing payment issue from morning ",
+            "category": "customer_message",
+            "created_at": "2026-11-07T11:57:53"
+        },
+        {
+            "content": "ResolveIQ replied: Hello Asha Mehta, I understand that you are facing a payment or order-related problem.\n\nPlease share your order ID and payment reference number. I can record the details and help you check the next steps.\n\nI will not mark a payment as successful until it has been verified.",
+            "category": "agent_response",
+            "created_at": "2026-11-07T11:57:53"
+        }
+    ]
+}
